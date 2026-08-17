@@ -4,11 +4,11 @@
 
 <br />
 
-<img src="assets/typing.svg" alt="AI, multi-agent systems, and Python" width="700" />
+<img src="typing.svg" alt="AI, multi-agent systems, and Python" width="700" />
 
 <br />
 
-<img src="assets/profile-views.svg" alt="Profile views" />
+<img src="profile-views.svg" alt="Profile views" />
 
 </div>
 
