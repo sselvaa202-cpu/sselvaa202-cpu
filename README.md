@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-generated.png" alt="Monochrome AI and software architecture banner" width="100%" />
+<img src="banner-generated.png" alt="Monochrome AI and software architecture banner" width="100%" />
 
 <br />
 
