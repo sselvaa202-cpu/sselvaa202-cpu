@@ -148,7 +148,7 @@ AetherOS is the clearest expression of this direction: a modular platform that s
 <div align="center">
 
 <a href="https://github.com/sselvaa202-cpu">
-  <img src="assets/profile-views.svg" alt="Selvaa profile views" />
+  <img src="profile-views.svg" alt="Selvaa profile views" />
 </a>
 
   
