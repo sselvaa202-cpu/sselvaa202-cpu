@@ -147,12 +147,52 @@ AetherOS is the clearest expression of this direction: a modular platform that s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sselvaa202-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9da7b3&icon_color=ffffff&rank_icon=github" alt="Selvaa's GitHub statistics" width="49%" />
-<img src="https://streak-stats.demolab.com?user=sselvaa202-cpu&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Selvaa's contribution streak" width="49%" />
+<a href="https://github.com/sselvaa202-cpu">
+  <img src="assets/profile-views.svg" alt="Selvaa profile views" />
+</a>
 
-<br />
+  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sselvaa202-cpu&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Selvaa's contribution graph" width="100%" />
+  
+
+
+<a href="https://github.com/sselvaa202-cpu?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="View repositories" />
+</a>
+
+<a href="https://github.com/sselvaa202-cpu?tab=overview">
+  <img src="https://img.shields.io/badge/VIEW_PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="View GitHub profile" />
+</a>
+
+  
+
+  
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>AI SYSTEMS</strong>  
+
+<sub>Agents · RAG · LLMs</sub>
+</td>
+<td align="center" width="33%">
+<strong>BACKEND</strong>  
+
+<sub>Python · FastAPI · PostgreSQL</sub>
+</td>
+<td align="center" width="33%">
+<strong>BUILDING</strong>  
+
+<sub>AetherOS · HireCraft</sub>
+</td>
+</tr>
+</table>
+
+  
+
+
+<sub>Your native GitHub contribution graph appears automatically below this profile README.</sub>
 
 </div>
 
@@ -162,7 +202,7 @@ AetherOS is the clearest expression of this direction: a modular platform that s
 
 > Code is never finished. It only becomes slightly less terrible over time.
 
-**Building AI-powered software systems, one deliberate module at a time.**
+<strong>Building AI-powered software systems, one deliberate module at a time.</strong>
 
 </div>
 
@@ -171,3 +211,6 @@ AetherOS is the clearest expression of this direction: a modular platform that s
   This file belongs in the public repository named exactly `sselvaa202-cpu`.
   GitHub renders that repository as the profile README for @sselvaa202-cpu.
 -->
+
+
+
