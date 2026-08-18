@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="profile-views.svg" alt="Profile views" />
+<img src="Gemini_Generated_Image_nrmffjnrmffjnrmf" alt="Profile views" />
 
 </div>
 
