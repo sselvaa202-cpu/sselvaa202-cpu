@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Gemini_Generated_Image_nrmffjnrmffjnrmf" alt="Monochrome AI and software architecture banner" width="100%" />
+<img src="git-banner.png" alt="Monochrome AI and software architecture banner" width="100%" />
 
 <br />
 
