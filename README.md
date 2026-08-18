@@ -1,92 +1,41 @@
 <div align="center">
 
-<img src="git-banner.png" alt="Monochrome AI and software architecture banner" width="100%" />
+<!-- Top Banner Image -->
+<img src="git-banner.png" alt="Selvaa Banner" width="100%" />
 
 <br />
-
-<img src="typing.svg" alt="AI, multi-agent systems, and Python" width="700" />
-
 <br />
 
-<img src="profile-views.svg" alt="Profile views" />
+<!-- Sub-header Badge / Stats -->
+<img src="https://img.shields.io/badge/STARS-11-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FORKS-0-111111?style=for-the-badge&logo=githubfork&logoColor=white" />
+<img src="https://img.shields.io/badge/FOLLOWERS-3-111111?style=for-the-badge" />
 
 </div>
 
----
-
-## KNOW ABOUT ME
-
-Hey there. I’m **Selvaa**, also known online as **selvaa03:00**.
-
-I’m a developer focused on **artificial intelligence, backend systems, and modern software architecture**. I am especially interested in building software in which specialized components cooperate through clear interfaces instead of treating every problem as one generic model call.
-
-My current technical focus includes **large language models, multi-agent systems, retrieval-augmented generation, vector databases, AI orchestration, Python, FastAPI, PostgreSQL, Redis, REST APIs, Docker, CI/CD, React, and Next.js**.
-
-> I am learning, building, breaking, and rebuilding systems until the architecture becomes clearer than the original idea.
-
-<div align="center">
-
-| Area | Current direction |
-| --- | --- |
-| Artificial intelligence | Agent orchestration, provider-agnostic LLM layers, RAG, and long-term memory |
-| Backend engineering | Python, FastAPI, authentication, REST APIs, PostgreSQL, Redis, and migrations |
-| Product engineering | Full-stack workflows, responsive interfaces, dashboards, and career tooling |
-| Delivery | Docker, GitHub Actions, security-first configuration, and disciplined incremental development |
-
-</div>
+<br />
 
 ---
 
-## WHAT I BUILD
+## Know About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" align="center" valign="middle">
 
-### [AetherOS](https://github.com/sselvaa202-cpu/AetherOS)
-
-**Enterprise Multi-Agent AI Operating Platform**
-
-A production-oriented platform where coding, research, document intelligence, analytics, automation, and enterprise operations can be handled by specialized agents through a shared orchestration and long-term memory layer.
-
-**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · React · Next.js · Docker
+<!-- Brain / Tech Accent Image -->
+<img src="brain-accent.png" alt="AI Brain Graphic" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+<td width="65%" valign="middle">
 
-### [HireCraft](https://github.com/sselvaa202-cpu/HireCraft)
+### Hey there! I'm Selvaa
 
-**AI-powered career alignment platform**
+I'm a developer focused on **artificial intelligence, backend systems, and modern software architecture**. I am especially interested in building software in which specialized components cooperate through clear interfaces instead of treating every problem as one generic model call.
 
-A career-readiness system that connects a target role and job description with skills, LinkedIn context, GitHub activity, projects, gap analysis, and interview preparation.
+My technical focus includes **LLMs, multi-agent systems, RAG, vector databases, Python, FastAPI, PostgreSQL, Redis, Docker, and Next.js**.
 
-**Stack:** Python · FastAPI · JavaScript · AI-assisted analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [TradeHub](https://github.com/sselvaa202-cpu/tradershub)
-
-**Trading education platform**
-
-A full-stack learning experience for structured trading courses, educational resources, responsive pages, authentication flows, and an interactive learner journey.
-
-**Stack:** HTML · CSS · JavaScript · Node.js-oriented application files
-
-</td>
-<td width="50%" valign="top">
-
-### [03:00 AM](https://github.com/sselvaa202-cpu/03-00-Am)
-
-**Where thoughts become visuals**
-
-A creative frontend experience about manifestation, imagination, and visual storytelling, built as a lightweight responsive website with animation-driven interactions.
-
-**Stack:** HTML5 · CSS3 · JavaScript · CSS animations
-
-[Open the live demo](https://sselvaa202-cpu.github.io/03-00-Am/)
+> *I am learning, building, breaking, and rebuilding systems until the architecture becomes clearer than the original idea.*
 
 </td>
 </tr>
@@ -94,123 +43,59 @@ A creative frontend experience about manifestation, imagination, and visual stor
 
 ---
 
-## CURRENT FOCUS
+## Top Projects
 
-```text
-                         AI SYSTEMS
-                              │
-              ┌───────────────┼───────────────┐
-              │               │               │
-            AGENTS           RAG             LLMs
-              │               │               │
-              └───────────────┼───────────────┘
-                              │
-                        ORCHESTRATION
-                              │
-                 ┌────────────┴────────────┐
-                 │                         │
-              FASTAPI                 POSTGRESQL
-                 │                         │
-                 └────────────┬────────────┘
-                              │
-                         REAL SYSTEMS
-```
+<table>
+<tr>
+<td width="70%" valign="top">
 
-AetherOS is the clearest expression of this direction: a modular platform that separates orchestration, context management, memory, model providers, security, and future agent capabilities. The repository currently describes an 18-module roadmap across foundation, platform core, agent capabilities, SaaS/enterprise features, and launch hardening.
+* **[AETHEROS](https://github.com/sselvaa202-cpu/AetherOS)** &nbsp; Enterprise multi-agent AI operating platform for coding, research, and enterprise operations.
+<br />
 
----
+* **[HIRECRAFT](https://github.com/sselvaa202-cpu/HireCraft)** &nbsp; AI-powered career alignment platform connecting job descriptions with skills and gap analysis.
+<br />
 
-## ENGINEERING PRINCIPLES
+* **[TRADEHUB](https://github.com/sselvaa202-cpu/tradershub)** &nbsp; Full-stack trading education platform with interactive learner journeys and structured courses.
+<br />
 
-| Principle | How it appears in my work |
-| --- | --- |
-| **Interfaces before integrations** | Provider abstractions make it possible to change models without rewriting every agent. |
-| **Security from day one** | Secrets stay in environment configuration, authentication is explicit, and security is treated as a design concern. |
-| **Small modules, deliberate reviews** | Features are developed in phases, with architecture, security, testing, and deployment checks before expansion. |
-| **Useful systems over demos** | The goal is software that connects the model, the data, the interface, and the user workflow. |
+* **[03:00 AM](https://github.com/sselvaa202-cpu/03-00-Am)** &nbsp; Creative frontend experience about visual storytelling, built with lightweight responsive animations.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<!-- Project Accent Image (Flame / Icon) -->
+<img src="flame-accent.png" alt="Project Accent Graphic" width="80%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## CONNECT
+## Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sselvaa202-cpu)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selvakumar-b-7181103a8)
-[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sselvaa202@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sselvaa202@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=google-docs&logoColor=white)](https://github.com/sselvaa202-cpu)
 
 </div>
+
+<br />
+
+> **Code is never finished. It only becomes slightly less terrible over time.**
+
+*Building AI-powered software systems, one deliberate module at a time.*
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## Contribution
 
 <div align="center">
 
-<a href="https://github.com/sselvaa202-cpu">
-  <img src="profile-views.svg" alt="Selvaa profile views" />
-</a>
-
-  
-
-  
-
-
-<a href="https://github.com/sselvaa202-cpu?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="View repositories" />
-</a>
-
-<a href="https://github.com/sselvaa202-cpu?tab=overview">
-  <img src="https://img.shields.io/badge/VIEW_PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="View GitHub profile" />
-</a>
-
-  
-
-  
-
-
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>AI SYSTEMS</strong>  
-
-<sub>Agents · RAG · LLMs</sub>
-</td>
-<td align="center" width="33%">
-<strong>BACKEND</strong>  
-
-<sub>Python · FastAPI · PostgreSQL</sub>
-</td>
-<td align="center" width="33%">
-<strong>BUILDING</strong>  
-
-<sub>AetherOS · HireCraft</sub>
-</td>
-</tr>
-</table>
-
-  
-
-
-<sub>Your native GitHub contribution graph appears automatically below this profile README.</sub>
+<!-- Contribution Graph Image / Component -->
+<img src="contribution-graph.png" alt="Selvaa's Contribution Graph" width="100%" />
 
 </div>
-
----
-
-<div align="center">
-
-> Code is never finished. It only becomes slightly less terrible over time.
-
-<strong>Building AI-powered software systems, one deliberate module at a time.</strong>
-
-</div>
-
-<!--
-  Deployment note:
-  This file belongs in the public repository named exactly `sselvaa202-cpu`.
-  GitHub renders that repository as the profile README for @sselvaa202-cpu.
--->
-
-
-
