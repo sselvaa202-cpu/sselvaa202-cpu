@@ -24,7 +24,7 @@
 <td width="35%" align="center" valign="middle">
 
 <!-- Brain / Tech Accent Image -->
-<img src="brain-accent.png" alt="AI Brain Graphic" width="100%" />
+<img src="github-profile.png" alt="AI Brain Graphic" width="100%" />
 
 </td>
 <td width="65%" valign="middle">
@@ -64,7 +64,7 @@ My technical focus includes **LLMs, multi-agent systems, RAG, vector databases, 
 <td width="30%" align="center" valign="middle">
 
 <!-- Project Accent Image (Flame / Icon) -->
-<img src="flame-accent.png" alt="Project Accent Graphic" width="80%" />
+<img src="github-project.png" alt="Project Accent Graphic" width="80%" />
 
 </td>
 </tr>
@@ -96,6 +96,6 @@ My technical focus includes **LLMs, multi-agent systems, RAG, vector databases, 
 <div align="center">
 
 <!-- Contribution Graph Image / Component -->
-<img src="contribution-graph.png" alt="Selvaa's Contribution Graph" width="100%" />
+<img src="github-contribut.png" alt="Selvaa's Contribution Graph" width="100%" />
 
 </div>
