@@ -96,6 +96,6 @@ My technical focus includes **LLMs, multi-agent systems, RAG, vector databases, 
 <div align="center">
 
 <!-- Contribution Graph Image / Component -->
-<img src="github-contribut.png" alt="Selvaa's Contribution Graph" width="100%" />
+<img src="contribute.png" alt="Selvaa's Contribution Graph" width="100%" />
 
 </div>
