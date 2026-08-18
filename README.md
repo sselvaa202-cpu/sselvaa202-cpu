@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-generated.png" alt="Monochrome AI and software architecture banner" width="100%" />
+<img src="Gemini_Generated_Image_nrmffjnrmffjnrmf" alt="Monochrome AI and software architecture banner" width="100%" />
 
 <br />
 
@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="Gemini_Generated_Image_nrmffjnrmffjnrmf" alt="Profile views" />
+<img src="profile-views.svg" alt="Profile views" />
 
 </div>
 
