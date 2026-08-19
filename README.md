@@ -77,7 +77,7 @@ My technical focus includes **LLMs, multi-agent systems, RAG, vector databases, 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sselvaa202-cpu)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selvakumar-b-7181103a8)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/selvakumar0201)
 [![Gmail](https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sselvaa202@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=google-docs&logoColor=white)](https://github.com/sselvaa202-cpu)
 
